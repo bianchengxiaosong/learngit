@@ -29,7 +29,17 @@
 	git tracks changes
 	git tracks changes of file_exists
 	我通过 git  checkout -b 分支名称 命令创建了一个新的分支 
-	creating a new branch is quick & simple
-	git还会提醒我们当前master分支比远程的master分支要超前1个提交
+	查看分支：git branch
+	创建分支：git branch 分支名称
+	切换分支：git checkout 分支名称
+	创建+切换分支：git checkout -b 分支名称
+	合并某分支到当前分支：git merge 分支命令
+	删除分支 git branch -d 分支名称
+	创建分支 git branch 分支名称
+	查看分支 git branch
+	切换分支 git checkout 分支名称
+	合并分支 git merge 要合并的分支名称
+	git branch -d删除分支
+	creating 啊 new breanch  is quick and simple
 </body>
 </html>
