@@ -49,6 +49,8 @@
 	通常，合并分支时，如果可能，git会用fast forward模式但这种模式下删除分支后，会丢掉分支信息
 	如果要强制禁用fast forwar模式，git就会在merge时生成一个新的commit这样，从分值历史上就可以看出分支信息
 	git还提供了一个stash功能，可以吧当前工作现场“存储”起来，等以后恢复现场后继续工作
+	aaaaaaa
+	stash stash stash
 	
 </body>
 </html>
