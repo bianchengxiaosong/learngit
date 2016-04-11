@@ -41,5 +41,7 @@
 	合并分支 git merge 要合并的分支名称
 	git branch -d删除分支
 	creating 啊 new breanch  is quick and simple
+	爱使帕金森吉安帕叫撒手帕交手机
+	就是怕就是怕怕按键盘手帕
 </body>
 </html>
