@@ -51,6 +51,9 @@
 	git还提供了一个stash功能，可以吧当前工作现场“存储”起来，等以后恢复现场后继续工作
 	aaaaaaa
 	stash stash stash
-	
+	ccccccc
+	ajpsajpjspajpsa
+	fjpdjpajpj
+	sdjpajpsjap
 </body>
 </html>
